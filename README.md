@@ -1,5 +1,9 @@
 # SA_Assignment05
 
+## Estimate
+
+Read the entire assignment and calculate you estimate for the estimation assignment.
+
 ## Localization
 
 Clone the repo at https://github.com/olekaspt/TranslationWithBoost
