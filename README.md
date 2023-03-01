@@ -83,6 +83,8 @@ void UI::PerformSampleJournalingPartsOps()
 }
 ```
 
+Look at the journal txt file.  What happened?  Briefly describe what we need to do to resolve this?
+
 
 
 
