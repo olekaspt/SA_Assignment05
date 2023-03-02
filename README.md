@@ -34,7 +34,7 @@ PDF
 
 ## Signing
 
-Using the process in the slide deck on self signing, sign the translation.exe with a self certificate.  
+Using the process in the slide deck on self signing, sign the translation.exe (the main executable from the solution you worked on Localization portion) with a self certificate.  
 
 Provide as part of your upload this exe.
 
