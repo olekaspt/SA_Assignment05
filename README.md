@@ -57,7 +57,7 @@ There are three issues that need to be fixed.
 
 You know you got it right when you can run the program and copy the txt file to the cpp file, and then it builds and runs :)
 
-Provide the directory of the  journal library.
+Code submission is to provide the provide the directory containing the  Journal library.  As simple zip of this directory is suffice.
 
 PDF
 1. Modify UI::PerformSampleJournalingPartsOps to be below:
