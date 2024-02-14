@@ -27,7 +27,7 @@ As part of your submission you will package up your entire solution and upload i
 
 
 PDF
-1. Povide screenshot of your program output.
+1. Provide screenshot of your program output.
 1. Answer the following questions.
   1. The way the example was setup, each time we called the method to output the string we called Localize (and thus boost translate).  Is this an efficient methodology to retrieve the translated stirng.   HINT : Thing about the case when we called your function twice.  What is your suggestion as a best coding practice to resolve this.
   2. Imagine if forced you to have the new file you created put into a shared library.   And we wanted to reference the string for open file.  And if our DevOps processs runs the xgettext process on each file individually.   What issues do you foresee us having with this model?
